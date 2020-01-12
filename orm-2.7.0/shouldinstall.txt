@@ -1,0 +1,14 @@
+{
+    "require": {
+        "doctrine/orm": "*",
+		"symfony/service-implementation": "*"
+    }
+}
+
+"symfony/service-implementation": "*"
+symfony/console suggests installing symfony/event-dispatcher
+symfony/console suggests installing symfony/lock
+symfony/console suggests installing symfony/process
+symfony/console suggests installing psr/log (For using the console logger)
+doctrine/cache suggests installing alcaeus/mongo-php-adapter (Required to use legacy MongoDB driver)
+doctrine/orm suggests installing symfony/yaml (If you want to use YAML Metadata Mapping Driver)

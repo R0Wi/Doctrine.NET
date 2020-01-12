@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "console": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\gehtdich\\Downloads\\tmpPeachPie\\php-library\\fpdf"
+    }
+  }
+}
